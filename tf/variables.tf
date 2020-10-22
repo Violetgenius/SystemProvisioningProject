@@ -17,7 +17,7 @@ variable "az_count" {
 
 variable "app_image" {
   description = "Docker image to run in the ECS cluster"
-  default     = "prakhar824/sysprov"
+  default     = "sajalsood43/midsem"
 }
 
 variable "app_port" {
